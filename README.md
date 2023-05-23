@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi, Dev!<br>Im Hendy Setiawan.<br>Im a newbie programmer who's coding in HTML and JavaScript
+__Hi, Dev!<br>Im Hendy Setiawan.<br>Im a newbie programmer who's coding in HTML and JavaScript__
 
 ## 🌐 Socials:
 
