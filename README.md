@@ -34,12 +34,6 @@ __Hi, Dev!<br>Im Hendy Setiawan.<br>Im a newbie programmer who's coding in HTML 
 
 ![](https://github-contributor-stats.vercel.app/api?username=HendySetiawan&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-
 [![](https://visitcount.itsvg.in/api?id=HendySetiawan&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
